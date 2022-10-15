@@ -1,0 +1,39 @@
+body {
+	background-image: url("software background.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 145%;
+}
+
+h1 {
+    text-align: center;
+    background: #99CCFF;
+    font-family: fantasy;
+    padding: 10px 15px;
+    border: 2px dotted blue;
+    width: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+
+  p {
+    background-color: hsl(210, 69%, 89%);
+    text-align: justify;
+    font-style: italic;
+    padding: 20px;
+    border: 3px black;
+    border-style: dotted dashed double solid;
+    width: 500px;
+    margin: auto;
+  }
+
+
+span {
+	font-weight: bold;
+	font-style: italic;
+	color: #0000FF;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+
